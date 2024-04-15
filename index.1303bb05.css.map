@@ -1,1 +1,0 @@
-{"mappings":"AAAA","sources":["styles.css"],"sourcesContent":["body{\r\n    display: flex;\r\n    justify-content: center;\r\n    flex-direction: column;\r\n    align-items: center;\r\n}"],"names":[],"version":3,"file":"index.1303bb05.css.map","sourceRoot":"/__parcel_source_root/"}
